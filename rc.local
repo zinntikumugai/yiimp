@@ -70,6 +70,7 @@ screen -dmS skein $STRATUM_DIR/run.sh skein
 screen -dmS skein2 $STRATUM_DIR/run.sh skein2
 screen -dmS yescrypt $STRATUM_DIR/run.sh yescrypt
 #screen -dmS yescryptR16 $STRATUM_DIR/run.sh yescryptR16
+#screen -dmS yespowerR8 $STRATUM_DIR/run.sh yespowerR8
 screen -dmS zr5 $STRATUM_DIR/run.sh zr5
 screen -dmS sib $STRATUM_DIR/run.sh sib
 screen -dmS m7m $STRATUM_DIR/run.sh m7m
