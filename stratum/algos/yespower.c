@@ -51,8 +51,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "sha256.h"
-#include "sysendian.h"
+#include "sha256_yp.h"
+#include "sysendian_yp.h"
 
 #include "yespower.h"
 
